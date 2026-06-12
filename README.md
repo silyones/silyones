@@ -5,34 +5,6 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/trishala-venkatesh-b10841256">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/silyones">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:trishalavenkatesh@gmail.com">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/v_trishala">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/y.ones_/">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://trishalav.vercel.app">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vercel.svg" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20IST%20%7C%20AI%20%26%20Data%20Science-Presidency%20University%20%C2%B7%20CGPA%209.28-1c6000?style=flat-square&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/📍%20Location-Bengaluru%2C%20India-000000?style=flat-square&labelColor=1c6000&color=000000" />
@@ -215,8 +187,31 @@ A novel GAN-based framework for handling class imbalance in fraud detection data
 
 </div>
 
----
+<br/>
 
 <p align="center">
-  <em>Systems that work in production. Agents that reason at scale. Infrastructure that doesn't break at 2 AM.</em>
+  <a href="https://www.linkedin.com/in/trishala-venkatesh-b10841256">
+    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/silyones">
+    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:trishalavenkatesh@gmail.com">
+    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/v_trishala">
+    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/y.ones_/">
+    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://trishalav.vercel.app">
+    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vercel.svg" />
+  </a>
 </p>
+
