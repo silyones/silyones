@@ -182,36 +182,17 @@ A novel GAN-based framework for handling class imbalance in fraud detection data
 | 🎙️ **GDG AI Co-Lead** | Led 15+ technical workshops on LLMs, RAG, voice agents, and GenAI; mentored 100+ students |
 | 👩‍💼 **IEEE WIE President** | Founded and scaled 100+ member community; organized 20+ STEM events |
 | 🚔 **Hackathon Organizer** | NammaSuraksha — co-organized national public safety hackathon with Karnataka State Police; 200+ participants |
-| 🎓 **CGPA 9.28** | B.Tech IST (AI & Data Science), Presidency University, Bengaluru |
+| 🎓 **CGPA 9.21** | B.Tech IST (AI & Data Science), Presidency University, Bengaluru |
 | ⭐ **Google Prompt Wars** | Represented GDG at Google for Developers Prompt Wars competition |
 
 </div>
 
-<br/>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/trishala-venkatesh-b10841256">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/silyones">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:trishalavenkatesh@gmail.com">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/v_trishala">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/y.ones_/">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://trishalav.vercel.app">
-    <img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vercel.svg" />
-  </a>
+  <a href="https://www.linkedin.com/in/trishala-venkatesh-b10841256"><img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" /></a>
+  <a href="https://github.com/silyones"><img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" /></a>
+  <a href="mailto:trishalavenkatesh@gmail.com"><img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" /></a>
+  <a href="https://x.com/v_trishala"><img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" /></a>
+  <a href="https://www.instagram.com/y.ones_/"><img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" /></a>
+  <a href="https://trishalav.vercel.app"><img height="40" width="40" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vercel.svg" /></a>
 </p>
 
