@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20IST%20%7C%20AI%20%26%20Data%20Science-Presidency%20University%20%C2%B7%20CGPA%209.28-1c6000?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📍%20Location-Bengaluru%2C%20India-000000?style=flat-square&labelColor=1c6000&color=000000" />
+  <img src="https://img.shields.io/badge/ %20Location-Bengaluru%2C%20India-000000?style=flat-square&labelColor=1c6000&color=000000" />
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Roles-1c6000?style=flat-square" />
 </p>
