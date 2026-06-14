@@ -65,6 +65,25 @@ Outside of building things, I lead AI/ML programming as GDG On Campus AI Co-Lead
 ## Featured Projects
 
 <details>
+<summary><strong>PR Helper</strong> · Open Source Chrome Extension for AI-Generated PR Descriptions</summary>
+<br/>
+
+An open-source Chrome extension that reads a GitHub PR diff directly from the DOM and auto-generates the PR title, description, testing checklist, and a conventional commit message using LLM inference.
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Vanilla JavaScript · Chrome Extension Manifest V3 · Groq API (Llama 3.3 70B) |
+| **Architecture** | Content script DOM parsing · service worker API calls · React-safe form injection |
+| **Engineering** | Reverse-engineered GitHub's React-rendered diff and PR form structure to extract diffs and inject generated content into controlled inputs |
+| **Output** | Structured JSON: PR title, description, testing checklist, conventional commit message |
+| **Design** | Zero build step, loads unpacked, no backend required, free to run with a Groq API key |
+| **Repository** | [github.com/silyones/PR-helper-extension](https://github.com/silyones/PR-helper-extension) |
+
+Solves a real developer workflow problem: PR boilerplate writing. Open for community contributions, including support for additional LLM providers (OpenAI, Anthropic, Gemini, local models).
+
+</details>
+
+<details>
 <summary><strong>AutoPilot DevAgent</strong> · Autonomous Developer Agent</summary>
 <br/>
 
