@@ -16,11 +16,9 @@
 
 ## About
 
-I like building AI systems, solving practical problems, and continuously learning from the process.
+I enjoy building AI systems, solving practical problems, and continuously learning through the process. My interests lie in agentic AI, voice AI, machine learning, and intelligent systems, and I love experimenting with new technologies to turn ideas into useful applications.
 
-At Ton Technology Services, I built production-grade voice agent pipelines with ElevenLabs, Sarvam AI, LiveKit, and Twilio, achieving sub-2s end-to-end latency across real-time telephony infrastructure. Before that, at Samsung Innovation Campus, I worked on shrinking transformer models for edge hardware: 40% faster inference, 30% smaller, 98% accuracy retained.
-
-My work sits across multi-agent orchestration, voice AI infrastructure, and autonomous developer tooling. I've learned that the gap between a system that works and one that holds up under real load is where most of the actual engineering happens.
+Over time, I've worked on projects involving multi-agent systems, voice assistants, developer tools, and applied machine learning. I am particularly interested in designing systems that are not only intelligent, but also reliable, scalable, and useful in real-world settings.
 
 Outside of building things, I lead AI/ML programming as GDG On Campus AI Co-Lead and serve as President of IEEE Women in Engineering. I co-organized NammaSuraksha with Karnataka State Police. I also volunteered at Agentic AI Day, a Guinness World Record event for the world's largest agentic AI hackathon with 1,900+ developers. Beyond that, I regularly attend and volunteer at meetups and am an active member of Bengaluru's Agentic AI and Generative AI communities.
 
